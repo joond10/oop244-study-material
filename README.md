@@ -1,6 +1,7 @@
-This repository has code alongs that are well documented serving as my study notes. 
-Most sections are fleshed out but there could be some parts missing.
+<h2>This repository has code alongs that are well documented serving as my study notes.<br>
+Most sections are fleshed out but there could be some parts missing.<br></h2>
+  <h2>- Derived classes in particular which covers abstract base classes and pure virtual functions is not in here<br>
+  - Full Utils module is within templates<br>
+  - Templates hasn't been documented</h2>
 
-Note:
-  Derived classes in particular which covers abstract base classes and pure virtual functions is not in here
-  Full Utils module is within templates
+  <p>These modules refer to this playlist: https://www.youtube.com/playlist?list=PLxB4x6RkylovWKnn9EoJ7_ByHlqGTDEr7</p>
