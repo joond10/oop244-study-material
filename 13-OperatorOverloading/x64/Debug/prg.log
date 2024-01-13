@@ -1,0 +1,3 @@
+﻿  06-HelperNonMember.cpp
+C:\Users\joond\OneDrive\Documents\OOP244\13- Operator Overloading\prg\06-HelperNonMember.cpp(8,14): warning C4018: '<=': signed/unsigned mismatch
+  prg.vcxproj -> C:\Users\joond\OneDrive\Documents\OOP244\13- Operator Overloading\prg\x64\Debug\prg.exe
