@@ -1,4 +1,5 @@
-<h2>This repository has code alongs that are well documented serving as my study notes. Most sections are fleshed out but there could be some parts missing.<br></h2>
+# Introduction to Object Oriented Programming
+This repository has code alongs that are well documented serving as my study notes. Most sections are fleshed out but there are some parts missing.<br>
   - Derived classes in particular which covers abstract base classes and pure virtual functions is missing<br>
   - Full Utils module is within templates section however, nothing is documented for that module
 
