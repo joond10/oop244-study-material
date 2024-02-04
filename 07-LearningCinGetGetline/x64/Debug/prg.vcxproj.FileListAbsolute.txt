@@ -1,1 +1,2 @@
 C:\Users\joond\OneDrive\Documents\OOP244\07 - Learning cin\prg\x64\Debug\prg.exe
+C:\Users\joond\OneDrive\Documents\SS2\OOP244\OOP244 Study Material\07-LearningCinGetGetline\x64\Debug\prg.exe
