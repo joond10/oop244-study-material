@@ -1,3 +1,0 @@
-C:\Users\joond\OneDrive\Documents\OOP244\14 - Upgrading Util with Strings\prg\x64\Debug\prg.exe
-C:\Users\joond\OneDrive\Documents\OOP244\15 - Rule of Three (Copy Operations, IO)\prg\x64\Debug\prg.exe
-C:\Users\joond\OneDrive\Documents\OOP244\15 - Rule of Three (Copy Operations)\prg\x64\Debug\prg.exe
